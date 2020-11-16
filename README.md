@@ -1,5 +1,3 @@
-![](header.png)
-
 # Hi there 👋🏽
 
 <!--

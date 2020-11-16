@@ -26,3 +26,5 @@ My name is Youssef. I'm originally from 🇱🇧 and currently live in Austin, T
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ychaker&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ychaker&count_private=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+*(not what I really expected, since really my top contributions are in Ruby 🤷🏽‍♂️)*

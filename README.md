@@ -1,4 +1,4 @@
-<img src="http://youhoo.im/images/desk.png" />
+![](header.png)
 
 # Hi there 👋🏽
 

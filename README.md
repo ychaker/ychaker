@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Youssef. I'm originally from 🇱🇧 and currently live in Austin, TX.
+My name is Youssef. I'm originally from 🇱🇧 and currently live in Atlanta, GA.
 
-- I work at [Dealerware](https://www.dealerware.com/), where we are building the modern fleet management platform.
+- I work at [CarServ](https://www.carserv.com/), as the VP of Engineering.
 - I co-organize 2 Ruby meetups in Austin: [@austinrb](https://twitter.com/austinrb) and [@austinonrails](https://twitter.com/austinonrails)
-- Ask me anything about Ruby, Lebanon, Lebanese food, Diversity, Inclusion, and Equity, startups, etc
+- Ask me anything about Leadership, Ruby, Lebanon, Lebanese food, Diversity, Inclusion, and Equity, startups, etc
 
 ## Tech Stack
 
